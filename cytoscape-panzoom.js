@@ -156,7 +156,7 @@ SOFTWARE.
           var $zoomIn = $('<div class="cy-panzoom-zoom-in cy-panzoom-zoom-button"><span class="icon '+ options.zoomInIcon +'"></span></div>');
           $panzoom.append( $zoomIn );
 
-          var $zoomOut = $('<div class="cy-panzoom-zoom-out cy-panzoom-zoom-button"><span class="icon ' + options.zoomOutIcon + '"></span></div>');
+          var $zoomOut = $('<div class="cy-panzoom-zoom-out cy-panzoom-zoom-button"><ArrowCircleUpIcon /></span></div>');
           $panzoom.append( $zoomOut );
 
           var $reset = $('<div class="cy-panzoom-reset cy-panzoom-zoom-button"><span class="icon ' + options.resetIcon + '"></span></div>');
