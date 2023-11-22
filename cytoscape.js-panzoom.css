@@ -6,9 +6,10 @@
 	line-height: 1;
 	color: #666;
 	font-size: 11px;
-	z-index: 99999;
+	z-index: 1;
 	box-sizing: content-box;
 	right: 50px;
+	top: 10px;
 }
 
 .cy-panzoom-zoom-button {
